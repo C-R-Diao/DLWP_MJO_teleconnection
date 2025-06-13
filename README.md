@@ -1,4 +1,4 @@
-# codes for project: Assessing MJO Tropical-Extratropical Teleconnections in Deep Learning Weather Prediction models
+### codes for project: Assessing MJO Tropical-Extratropical Teleconnections in Deep Learning Weather Prediction models
 
 Preprint available at: DOI: 10.22541/essoar.174759219.91708232/v1.
 
